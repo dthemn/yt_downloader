@@ -54,7 +54,6 @@ This project allows users to enter a YouTube URL through a simple web interface.
 
 ## 🧪 Running the App
 
-    ```
     uvicorn main:app --reload
 
 
