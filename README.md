@@ -15,7 +15,7 @@ This project allows users to enter a YouTube URL through a simple web interface.
 ## 📸 Preview
 
 ![Screenshot of input form](screenshots/start.png)
-![Screenshot of input form](screenshots/start.png)
+![Screenshot of input form](screenshots/done.png)
 
 
 ---
