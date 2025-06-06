@@ -54,8 +54,8 @@ This project allows users to enter a YouTube URL through a simple web interface.
 
 ## 🧪 Running the App
 
-```bash
-uvicorn main:app --reload
+    ```bash
+    uvicorn main:app --reload
 
 
 ---
@@ -63,7 +63,6 @@ uvicorn main:app --reload
 ## 📁 Project Structure
 
 ```
-.
 ├── main.py             # FastAPI backend
 ├── yt_merge.py         # Merging logic (yt-dlp + ffmpeg)
 ├── templates/
