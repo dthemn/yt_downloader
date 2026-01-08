@@ -33,7 +33,7 @@ This project allows users to enter a YouTube URL through a simple web interface.
 
 1. **Clone the repo**  
    ```bash
-   git clone https://github.com/your-username/yt-downloader-fastapi.git
+   git clone https://github.com/dthemn/yt-downloader-fastapi.git
    cd yt-downloader-fastapi
 
 2. **Create virtual environment (optional but recommended)**
